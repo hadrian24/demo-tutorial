@@ -7,3 +7,4 @@ More...
 ## Local development
 
 1. deschide index.html in browser.
+sdsadasdsdsa
